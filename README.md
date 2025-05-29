@@ -1,6 +1,6 @@
 **Hello 👋**
 
-I am Kapil Yadav. I am Masters candidate at King's College London. 
+This is Kapil. I have completed my postgraduation from King's College London. 
 
 In parallel with my research, I work on intergrating statistical computation and machine learning models in biological research. 
 
